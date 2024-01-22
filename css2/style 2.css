@@ -1,0 +1,28 @@
+form {
+    background-color: darkorchid;
+    width: 50%;
+    margin: auto;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow:darkorchid;
+}
+legend  {
+    text-align: center;
+    font-size: 30px;
+    font-family: "Cooper Black";
+    font-weight: bolder;
+    color: gray;
+}
+input[type-text] , input[type-email],input[type-passsword]{
+
+    width: 100%;
+    height: 40px;
+    border-radius: 5px;
+    margin-top: 10px;
+    padding-left: 10px;
+}
+button{
+    width: 100px;
+
+
+}
